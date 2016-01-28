@@ -19,7 +19,7 @@ public class App {
         // Tells the Jersey Servlet which REST service/class to load.
         jerseyServlet.setInitParameter(
                 "jersey.config.server.provider.classnames",
-                EntryPoint.class.getCanonicalName());
+                getEntryPointsAsString());
 
         try {
             jettyServer.start();
@@ -27,5 +27,11 @@ public class App {
         } finally {
             jettyServer.destroy();
         }
+    }
+
+    private static String getEntryPointsAsString() {
+        return EntryPoint.class.getCanonicalName() +
+                "," +
+                OtherEntryPoint.class.getCanonicalName();
     }
 }
