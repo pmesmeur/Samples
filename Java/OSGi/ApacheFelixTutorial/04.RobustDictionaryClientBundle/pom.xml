@@ -31,7 +31,7 @@
                         <Bundle-Description>A bundle that uses the dictionary service if it finds it at startup</Bundle-Description>
                         <Bundle-Vendor>Apache Felix</Bundle-Vendor>
                         <Bundle-Version>1.0.0</Bundle-Version>
-                        <Bundle-Activator>tutorial.example3.Activator</Bundle-Activator>
+                        <Bundle-Activator>tutorial.example4.Activator</Bundle-Activator>
                         <Import-Package>org.osgi.framework,tutorial.example2.service</Import-Package>
                     </instructions>
                 </configuration>
