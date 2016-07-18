@@ -4,16 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>mysamples.com</groupId>
-    <artifactId>osgi</artifactId>
-    <name>Samples :: Java :: OSGi</name>
+    <artifactId>themavencookbook</artifactId>
+    <name>Samples :: Java :: OSGi :: The Maven Cookbook</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>ApacheFelixTutorial</module>
-        <module>SimpleHelloWorld</module>
-        <module>TheMavenCookbook</module>
-        <module>WebApp</module>
     </modules>
 
     <properties>
