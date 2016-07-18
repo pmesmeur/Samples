@@ -30,3 +30,8 @@ Connect to http://localhost:8080/system/console
 Instruct the Pax plugin to install a bundle's full compile and runtime dependencies in provision/pom.xml
 
     mvn pax:import-bundle -DgroupId=org.apache.felix -DartifactId=org.apache.felix.http.jetty -Dversion=1.0.1 -DimportTransitive=true -DimportOptional=true -DwidenScope=true
+    
+
+Creating an OSGi bundle
+
+    mvn pax:create-bundle -Dpackage=org.sonatype.mcookbook -Dname=osgi-bundle -Dversion=1.0-SNAPSHOT
