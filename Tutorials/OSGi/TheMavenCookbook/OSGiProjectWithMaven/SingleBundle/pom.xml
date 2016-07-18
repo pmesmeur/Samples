@@ -15,7 +15,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.sonatype.mcookbook.OSGiProjectWithMaven</groupId>
-  <artifactId>org.sonatype.mcookbook</artifactId>
+  <artifactId>single-bundle</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Samples :: Tutorials :: OSGi :: The Maven Cookbook :: OSGiProjectWithMaven :: Single Bundle</name>
 
