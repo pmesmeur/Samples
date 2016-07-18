@@ -4,7 +4,7 @@
     <groupId>felix.apache.org</groupId>
     <artifactId>example2b</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Alternate Dictionary Service Bundle</name>
+    <name>Samples :: Java :: OSGi :: Apache Felix Tutorial :: Alternate Dictionary Service Bundle</name>
     <packaging>bundle</packaging>
     <dependencies>
         <dependency>

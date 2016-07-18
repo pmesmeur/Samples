@@ -4,7 +4,7 @@
     <groupId>felix.apache.org</groupId>
     <artifactId>example1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Service Event Listener Bundle</name>
+    <name>Samples :: Java :: OSGi :: Apache Felix Tutorial :: Service Event Listener Bundle</name>
     <packaging>bundle</packaging>
     <dependencies>
         <dependency>

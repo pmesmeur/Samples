@@ -3,7 +3,7 @@
     <groupId>com.hascode.bundle</groupId>
     <artifactId>information-broker-servlet-bundle</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Information Broker Servlet Bundle</name>
+    <name>Samples :: Java :: OSGi :: WebApp :: Information Broker Servlet Bundle</name>
     <packaging>bundle</packaging>
 
     <dependencies>

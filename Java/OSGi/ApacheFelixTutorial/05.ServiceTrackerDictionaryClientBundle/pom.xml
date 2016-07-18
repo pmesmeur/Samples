@@ -4,7 +4,7 @@
     <groupId>felix.apache.org</groupId>
     <artifactId>example5</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Service Tracker Dictionary Client Bundle</name>
+    <name>Samples :: Java :: OSGi :: Apache Felix Tutorial :: Service Tracker Dictionary Client Bundle</name>
     <packaging>bundle</packaging>
     <dependencies>
         <dependency>

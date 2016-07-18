@@ -4,7 +4,7 @@
     <groupId>felix.apache.org</groupId>
     <artifactId>example7</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name> Spell Checker Client Bundle</name>
+    <name>Samples :: Java :: OSGi :: Apache Felix Tutorial :: Spell Checker Client Bundle</name>
     <packaging>bundle</packaging>
     <dependencies>
         <dependency>

@@ -4,7 +4,7 @@
     <groupId>com.hascode.bundle</groupId>
     <artifactId>information-broker-bundle</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Information Broker Service Bundle</name>
+    <name>Samples :: Java :: OSGi :: WebApp :: Information Broker Service Bundle</name>
     <packaging>bundle</packaging>
     <dependencies>
         <dependency>

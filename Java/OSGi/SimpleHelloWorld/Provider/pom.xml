@@ -7,6 +7,7 @@
 
     <groupId>OSGiDmHelloWorldProvider</groupId>
     <artifactId>OSGiDmHelloWorldProvider</artifactId>
+    <name>Samples :: Java :: OSGi :: SimpleHelloWorld :: Provider</name>
     <version>1.0</version>
 
     <dependencies>

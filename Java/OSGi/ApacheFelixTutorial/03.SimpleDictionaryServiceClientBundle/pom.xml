@@ -4,7 +4,7 @@
     <groupId>felix.apache.org</groupId>
     <artifactId>example3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Simple Dictionary Service Client</name>
+    <name>Samples :: Java :: OSGi :: Apache Felix Tutorial :: Simple Dictionary Service Client</name>
     <packaging>bundle</packaging>
     <dependencies>
         <dependency>
