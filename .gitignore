@@ -23,6 +23,7 @@ bin_test
 
 # Maven #
 target
+runner
 
 # Atlassian #
 atlassian-ide-plugin.xml
